@@ -1,8 +1,8 @@
 class Autopr < Formula
   desc "AI-powered CLI for automated PR review, smart commits, and PR creation"
-  homepage "https://github.com/Maxxoto/autopr"
-  url "https://registry.npmjs.org/@maxxoto/autopr/-/autopr-0.1.3.tgz"
-  sha256 "6d011a5f477749c2e7ad5ede5a58ed3b69561b8a37a50d8f498a912effb4bd8c"
+  homepage "https://github.com/Maxxoto/autopr-ai"
+  url "https://registry.npmjs.org/autopr-ai/-/autopr-ai-0.1.4.tgz"
+  sha256 "41a45844b56b99e3d8324d747bb5aae7565c1abf3aae2d687785c5f92c579f82"
   license "MIT"
 
   depends_on "node@22"
